@@ -69,7 +69,7 @@ export const ASSETS = {
         onGround: 25.0,
         boostMultiplier: 8.0
       },
-      jumpHeight: 2.0,
+      jumpHeight: 6.0,
       rotationSpeed: 0.05, // radians
       rotationSmoothing: 0.2,
       animationBlend: 200,
