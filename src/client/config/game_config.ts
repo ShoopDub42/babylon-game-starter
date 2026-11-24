@@ -196,7 +196,7 @@ export const CONFIG: GameConfig = {
     PRIMARY_COLOR: '#ffffff',
     SECONDARY_COLOR: '#cccccc',
     HIGHLIGHT_COLOR: '#00ff88',
-    BACKGROUND_COLOR: '#000000',
+    BACKGROUND_COLOR: '#54385c',
     BACKGROUND_OPACITY: 0.7,
     PADDING: 15,
     BORDER_RADIUS: 8,
